@@ -1,0 +1,32 @@
+{
+ "downloaded": "2026-11-01",
+ "ghgrp": "https://data.epa.gov/efservice",
+ "usgs_yearbook": {
+  "2002": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/cement/cememyb02.xls",
+  "2003": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/cement/cemenmyb03.xls",
+  "2004": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/cement/cemenmyb04.xls",
+  "2005": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/mineral-pubs/cement/cemenmyb05.xls",
+  "2006": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb1-2006-cemen.xls",
+  "2007": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb1-2007-cemen.xls",
+  "2008": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb1-2008-cemen.xls",
+  "2009": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb1-2009-cemen.xls",
+  "2010": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb1-2010-cemen.xls",
+  "2011": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb1-2011-cemen.xls",
+  "2012": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb1-2012-cemen.xls",
+  "2013": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb1-2013-cemen.xlsx",
+  "2014": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb1-2014-cemen.xlsx",
+  "2015": "https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb1-2015-cemen.xlsx",
+  "2016": "https://d9-wret.s3-us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb1-2016-cement.xls",
+  "2017": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/myb1-2017-cemen.xls",
+  "2018": "https://pubs.usgs.gov/myb/vol1/2018/myb1-2018-cement.xlsx",
+  "2019": "https://pubs.usgs.gov/myb/vol1/2019/myb1-2019-cement.xlsx",
+  "2020": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb1-2020-cemen-adv2.xlsx",
+  "2021": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb1-2021-cemen-ert.xlsx",
+  "2022": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb1-2022-cemen-ert.xlsx",
+  "2023": "https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/myb1-2023-cemen-ERT.xlsx"
+ },
+ "fred": {
+  "cement": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=PCU327310327310",
+  "readymix": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=PCU327320327320"
+ }
+}

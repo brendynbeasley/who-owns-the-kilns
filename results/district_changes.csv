@@ -1,0 +1,17 @@
+district,hhi_2010,hhi_2023,owners_2010,owners_2023,price_2010,price_2023,d_hhi,price_growth_pct,owners_2010_names,owners_2023_names
+Maine and New York,2955.9,6563.0,4,3,91.7,148.4,3607.1,61.8,Lafarge 42%; Heidelberg Materials 25%; Giant Cement 21%,Holcim 79%; Giant Cement 17%; Heidelberg Materials 4%
+Oregon and Washington,7780.8,10000.0,2,1,90.0,150.5,2219.2,67.1,Ash Grove 87%; Lafarge 13%,CRH 100%
+Kansas,4424.0,5128.4,3,2,97.7,110.9,704.4,13.5,Ash Grove 55%; Monarch Cement 36%; Lafarge 9%,CRH 58%; Monarch Cement 42%
+California,2162.5,2708.8,6,5,79.0,134.0,546.4,69.6,Cemex 35%; Heidelberg Materials 21%; Taiheiyo (CalPortland) 14%,Taiheiyo (CalPortland) 40%; Cemex 26%; Mitsubishi Cement 17%
+Illinois,5123.6,5563.6,2,2,89.1,138.0,440.0,54.9,Lafarge 58%; Eagle Materials 42%,Eagle Materials 67%; Holcim 33%
+Colorado and Wyoming,2607.9,2800.6,4,4,93.0,187.5,192.7,101.6,Eagle Materials 32%; Holcim 27%; Cemex 22%,Holcim 35%; GCC 29%; Eagle Materials 25%
+South Carolina,3723.6,3863.7,3,3,86.8,146.0,140.1,68.2,Holcim 49%; Lafarge 26%; Giant Cement 25%,Holcim 52%; Argos 27%; Giant Cement 22%
+"Iowa, Nebraska, South Dakota",2603.1,2644.3,4,4,103.1,170.0,41.2,64.8,Ash Grove 32%; Lafarge 27%; GCC 20%,Summit Materials 31%; GCC 30%; CRH 23%
+Missouri,3473.5,3479.6,4,4,82.5,149.0,6.2,80.6,Holcim 46%; Buzzi 34%; Summit Materials 12%,Holcim 44%; Buzzi 36%; Eagle Materials 11%
+"Texas, southern",2040.4,2017.4,6,6,86.0,162.5,-23.0,88.9,Cemex 32%; Alamo Cement 21%; TXI 16%,Martin Marietta 29%; Cemex 24%; Alamo Cement 18%
+"Georgia, Maryland, Virginia, West Virginia",2853.6,2762.2,5,5,84.2,156.0,-91.4,85.4,Heidelberg Materials 44%; Titan America 20%; Essroc (Italcementi) 19%,Heidelberg Materials 43%; Argos 20%; Titan America 19%
+"Texas, northern",2692.5,2447.0,5,5,91.0,159.5,-245.5,75.3,TXI 39%; Ash Grove 26%; Holcim 17%,Martin Marietta 32%; Holcim 30%; CRH 15%
+Michigan,5411.6,5059.3,2,2,100.5,157.0,-352.4,56.2,Lafarge 64%; Votorantim (St Marys) 36%,Holcim 55%; Votorantim (St Marys) 45%
+Arkansas and Oklahoma,3485.4,3003.4,4,4,97.4,135.0,-482.0,38.6,Ash Grove 52%; Holcim 21%; Lafarge 14%,CRH 43%; Eagle Materials 24%; Holcim 21%
+Florida,3174.6,2343.4,8,6,90.5,129.5,-831.2,43.1,Cemex 50%; Titan America 20%; Vulcan Materials 15%,Cemex 32%; Titan America 25%; Argos 20%
+Arizona and New Mexico,3978.7,2797.3,3,4,102.2,152.5,-1181.4,49.2,Taiheiyo (CalPortland) 54%; Phoenix Cement 26%; GCC 20%,Taiheiyo (CalPortland) 34%; Phoenix Cement 33%; Drake Cement 21%

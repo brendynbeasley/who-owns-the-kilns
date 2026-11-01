@@ -1,0 +1,7 @@
+downstream_firms,output_nonintegrated,output_integrated,upstream_profit_nonintegrated,monopoly_profit,share_of_monopoly_profit,output_cut_by_integration,markup_nonintegrated,markup_integrated,total_surplus_nonintegrated,total_surplus_integrated
+1,0.5,0.5,0.25,0.25,1.0,0.0,0.5,0.5,0.375,0.375
+2,0.6667,0.5,0.2222,0.25,0.8889,0.25,0.3333,0.5,0.4444,0.375
+3,0.75,0.5,0.1875,0.25,0.75,0.3333,0.25,0.5,0.4688,0.375
+4,0.8,0.5,0.16,0.25,0.64,0.375,0.2,0.5,0.48,0.375
+6,0.8571,0.5,0.1224,0.25,0.4898,0.4167,0.1429,0.5,0.4898,0.375
+10,0.9091,0.5,0.0826,0.25,0.3306,0.45,0.0909,0.5,0.4959,0.375

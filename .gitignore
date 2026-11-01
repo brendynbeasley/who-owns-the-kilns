@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editors and OS
+.DS_Store
+.idea/
+.vscode/
+
+# Keys (none are needed; listed so none are ever committed)
+*.key
+*_key*.txt
+.env
+
+# Scratch downloads (every file the analysis uses is committed in data/raw/)
+data/tmp/
